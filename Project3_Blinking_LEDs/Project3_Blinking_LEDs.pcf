@@ -1,0 +1,8 @@
+#LED Pins
+set_io o_LED_1 56
+
+#Push_Button Switches Pins
+set_io i_Switch_1 53
+
+#Clock Pin
+set_io i_Clk 15
