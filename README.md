@@ -11,7 +11,10 @@ This project was super simple, but was still very important to learning how to u
 
 To configure the FPGA I had to learn about creating .pcf files that route the pins of the FPGA to the named inputs and outputs of my program. For compiling and flashing the program however, I had to look to external tools. In the case of the Lattice ICE40 HX1K FPGA, or any Lattice FPGA for that matter, compiling can be done with the iCEcube2 IDE and flashing can be done with their Diamond Programmer application. I will link both of these tools below for ease of use.
 
-Note: Contrary to what the iCEcube2 IDE site claims, the IDE does actually have a hobbyist license. To get this license you have to email Lattice Semiconductors directly with specific information. They will then send you the hobbyist license for your use.
+[iCEcube2 IDE](https://www.latticesemi.com/iCEcube2#_12092ABF818047B59CC430396492212C)  
+[Diamond Programmer](https://www.latticesemi.com/Products/DesignSoftwareAndIP/ProgrammingAndConfigurationSw/Programmer#_20C94305815A4B3AAAFEA8B83943B751)
+
+Note: Contrary to what the iCEcube2 IDE site claims, the IDE does actually have a hobbyist license. To get this license you have to email Lattice Semiconductors directly with specific information. They will then send you the hobbyist license for your use. For more information, refer to the licensing section in the above iCEcube2 IDE page.
 
 ## Project 2 - LED with AND Gate
 
